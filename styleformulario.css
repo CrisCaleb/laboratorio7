@@ -1,0 +1,24 @@
+
+body {
+    background-color: #78dae7; /* Celeste claro suave */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 28px;
+    color: #333;
+}
+form {
+    text-align: center;
+}
+.big-input {
+    width: 300px;       
+    padding: 8px;       
+    font-size: 16px;    
+    border: 2px solid #4d50eb; 
+    border-radius: 5px; 
+}
